@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.parent{
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    background-image: url("img2.jpg");
+}
+.child{
+    width:50vw;
+    height: 60vh;
+    border: 1px solid black;
+    text-align:center;
+    background-image: url("restaurant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+button{
+    background-color:rgba(240, 230, 224, 0.486);
+
+    
+
+    font-size: 20px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom: solid;
+    width: 32%;
+    height: 38px;
+    font-style: bold;
+    font-variant: normal;
+    font-size: 20px;
+    
+    
+}
+button:hover{
+    background-color:rgba(137, 141, 143, 0.315);rgba(240, 230, 224, 0.486);
+
+}
+a{
+    color: black;
+}
+a:hover{
+    color: white;
+}

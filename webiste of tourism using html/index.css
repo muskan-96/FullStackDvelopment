@@ -1,0 +1,23 @@
+table,tr,td{
+   padding:8px;
+    
+}
+td{
+    height: 210px;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 100px;
+
+    
+}
+tr{
+    padding-left: 20px;
+    padding-right: 100px
+
+}
+iframe{
+    border: 2px solid black;
+}
+.m1{
+    padding-left: 20px;
+}
